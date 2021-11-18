@@ -1,0 +1,30 @@
+_repo: The-Red-Man-s-Rebuke_66563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pokagon, Simon
+    alias: Chief Pokagon
+    birthdate: 1830
+    deathdate: 1899
+    gutenberg_agent_id: '53868'
+    url: http://www.gutenberg.org/2009/agents/53868
+    wikipedia: https://en.wikipedia.org/wiki/Simon_Pokagon
+description: ''
+gutenberg_issued: '2021-10-18'
+identifiers:
+  gutenberg: '66563'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Government relations'
+- !lcsh 'Indians of North America -- Treaties'
+- !lcsh 'Pokagon, Simon, 1830-1899'
+- !lcsh 'Indians of North America'
+- !lcsh 'World''s Columbian Exposition (1893 : Chicago, Ill.)'
+- !lcc 'E011'
+- !lcsh 'Indians, Treatment of -- United States'
+- GITenberg
+title: The Red Man's Rebuke
+url: http://www.gutenberg.org/ebooks/66563
