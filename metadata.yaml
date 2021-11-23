@@ -1,5 +1,8 @@
 _repo: The-Red-Man-s-Rebuke_66563
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66563-h/images/backcover.jpg
 creator:
   author:
     agent_name: Pokagon, Simon
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53868
     wikipedia: https://en.wikipedia.org/wiki/Simon_Pokagon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66563#The-Red-Man-s-Rebuke
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66563'
